@@ -44,23 +44,23 @@
             //Console.WriteLine("Your speed in miles/h is:" + speedmh);
 
             //ex3
-            string result = "";
-            int nr = int.Parse(Console.ReadLine());
-            int r;
-            if (nr == 0)
-            {
-                result = "0";
-            }
-            else
-            {
-                while (nr != 0)
-                {
-                    r = nr % 2;
-                    result = r + result;
-                    nr = nr / 2;
-                }
-            }
-            Console.WriteLine(result);
+            //string result = "";
+            //int nr = int.Parse(Console.ReadLine());
+            //int r;
+            //if (nr == 0)
+            //{
+            //    result = "0";
+            //}
+            //else
+            //{
+            //    while (nr != 0)
+            //    {
+            //        r = nr % 2;
+            //        result = r + result;
+            //        nr = nr / 2;
+            //    }
+            //}
+            //Console.WriteLine(result);
         }
     }
 }
