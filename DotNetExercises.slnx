@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="ControlFlow.Tests/ControlFlow.Tests.csproj" Id="0f95f322-395b-4b5f-9602-c9e77a9960df" />
+  <Project Path="ControlFlow/ControlFlow.csproj" Id="7eda842b-d192-48f6-8d56-d12d865dbb3c" />
   <Project Path="DataTypes/DataTypes.csproj" Id="1d4a4081-41ff-478e-9809-6dd97a88e3ea" />
   <Project Path="EcGr1_Form/EcGr1_Form.csproj" Id="efddf1fe-947c-4386-b513-645750e1da18" />
   <Project Path="Intro/Intro.csproj" />
